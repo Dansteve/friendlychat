@@ -1,0 +1,28 @@
+[debug] [2017-06-09T22:18:04.650Z] ----------------------------------------------------------------------
+[debug] [2017-06-09T22:18:04.652Z] Command:      /usr/local/Cellar/node/8.0.0_1/bin/node /usr/local/bin/firebase serve
+[debug] [2017-06-09T22:18:04.652Z] CLI Version:  3.9.1
+[debug] [2017-06-09T22:18:04.652Z] Platform:     darwin
+[debug] [2017-06-09T22:18:04.652Z] Node Version: v8.0.0
+[debug] [2017-06-09T22:18:04.653Z] Time:         Fri Jun 09 2017 23:18:04 GMT+0100 (WAT)
+[debug] [2017-06-09T22:18:04.653Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-06-09T22:18:04.664Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-06-09T22:18:04.664Z] > authorizing via signed-in user
+[debug] [2017-06-09T22:18:04.666Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychatweb-gdgibadan  
+ Fri Jun 09 2017 23:18:04 GMT+0100 (WAT)
+[debug] [2017-06-09T22:18:07.242Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-09T22:18:07.243Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychatweb-gdgibadan/tokens  
+ Fri Jun 09 2017 23:18:07 GMT+0100 (WAT)
+[debug] [2017-06-09T22:18:08.907Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/Olajide/Sites/friendlychat/web-stage-6-start'...
+[info] 
+[debug] [2017-06-09T22:18:08.910Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychatweb-gdgibadan  
+ Fri Jun 09 2017 23:18:08 GMT+0100 (WAT)
+[debug] [2017-06-09T22:18:10.341Z] <<< HTTP RESPONSE 200
+[debug] [2017-06-09T22:18:10.341Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/16788925283/clients/_:getWebAppConfig  
+ Fri Jun 09 2017 23:18:10 GMT+0100 (WAT)
+[debug] [2017-06-09T22:18:11.978Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
